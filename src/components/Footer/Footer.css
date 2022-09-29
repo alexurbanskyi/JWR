@@ -1,4 +1,39 @@
 .footer{
    background-color: black;
    color: white;
+   padding: 15px 5px;
+}
+.footer-logo {
+   font-family: 'Orbitron', sans-serif;
+   text-align: center;
+   margin-bottom: 10px;
+}
+.worker-container {
+   display: flex;
+   justify-content: space-around;
+}
+.woker-info {
+   width: 40%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.worker-link {
+  display: flex;
+  align-items: center;
+}
+.woker-name {
+   color: white;
+   font-family: 'Oswald', sans-serif;
+   font-size: 1rem;
+}
+.link-icon svg {
+   font-size: 15px;
+   margin: 10px;
+   color: white;
+}
+.link-info a {
+   text-decoration: none;
+   color: rgb(223, 219, 174);
+   font-family: 'Oswald', sans-serif;
 }

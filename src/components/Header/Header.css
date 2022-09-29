@@ -8,6 +8,7 @@
 .logo {
    font-size: 2.0rem;
    color: white;
+   font-family: 'Orbitron', sans-serif;
 
 }
 .nav-list {
@@ -20,7 +21,10 @@
 .nav-link a{
    text-decoration: none;
    padding: 0 5px;
-   font-size: 0.8rem;
+   font-size: 0.9em;
+   font-weight: 400;
+   letter-spacing: 0.5px;
+   font-family: 'Oswald', sans-serif;
    text-transform: uppercase;
    color: white;
 }
