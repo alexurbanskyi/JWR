@@ -8,7 +8,7 @@ function Header() {
       <div className='logo'>JWR</div>
       <nav>
          <ul className='nav-list'>
-            <li className='nav-link'><Link to='/'>Головна</Link></li>
+            <li className='nav-link'><Link to='/'>Про Нас</Link></li>
             <li className='nav-link'><Link to='/repair'>Ремонт</Link></li>
             <li className='nav-link'><Link to='/change'>Обмін</Link></li>
             <li className='nav-link'><Link to='/price'>Прайс</Link></li>
