@@ -1,5 +1,5 @@
 .about {
- 
+   font-family: 'Oswald', sans-serif;
    padding: 0 15px;
 }
 .about-title {
@@ -7,6 +7,7 @@
    display: flex;
    justify-content: center;
    align-items: center;
+   
    
 }
 .title-side {
@@ -23,3 +24,31 @@
    margin: 0 10px;
    font-family: 'Orbitron', sans-serif;
 }
+.services {
+   border-bottom: 1px solid black;
+   margin: 20px 0;
+    
+}
+.services-title{
+   text-align: right;
+   padding-right: 20px;
+}
+.services-list{
+   display: flex;
+   justify-content: center;
+}
+.place-name{
+   text-align: center;
+   font-weight: 600;
+   font-size: 1.5rem;
+}
+.place-address{
+   text-align: center;
+  
+}
+.map{
+   margin-top: 10px;
+   display: flex;
+   justify-content: center;
+}
+

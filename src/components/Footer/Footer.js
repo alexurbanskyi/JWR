@@ -14,18 +14,18 @@ function Footer() {
                      <FaPhoneAlt/>
                   </div>
                   <div className='link-info'>
-                   <a className='tel' href="tel: +380967774389">+38(096)7774389</a>
+                   <a className='tel' href="tel: +380971279385">+38(097)1279385</a>
                   </div>
                </div>              
             </div>
             <div className='woker-info'>
-               <p className='woker-name'>Ромасюнь Віталій</p>
+               <p className='woker-name'>Ромасюн Віталій</p>
                <div className='worker-link'> 
                   <div className='link-icon'>
                      <FaPhoneAlt/>
                   </div>
                   <div className='link-info'>
-                   <a className='tel' href="tel: +380967774389">+38(096)7774389</a>
+                   <a className='tel' href="tel: +380636330287">+38(063)6330287</a>
                   </div>
                </div>              
             </div>
