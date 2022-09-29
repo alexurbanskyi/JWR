@@ -1,11 +1,10 @@
 .container {
-   /* max-width: 1200px; */
-   /* margin: 0 auto; */
+
    height: 100vh;
    display: flex;
    flex-direction: column;
 }
 .main-screen {
-   background-color: rgb(232, 222, 222);
+   
    flex-grow: 1;
 }
