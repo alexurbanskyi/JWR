@@ -1,0 +1,23 @@
+
+.img{
+   width: 150px;
+   height: 150px;
+   border-radius: 7px;
+   overflow: hidden;
+}
+.repair-elem{
+   margin: 10px 20px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-direction: row-reverse;
+}
+.reverse{
+   flex-direction: row;
+}
+.repair-title{
+   flex-grow: 1;
+   text-align: center;
+   font-family: 'Oswald', sans-serif;
+   font-size: 1.5rem;   
+}
